@@ -4,4 +4,4 @@ public class code{
   System.out.println("Hello");
   }
 }
-#complete
+#completed
